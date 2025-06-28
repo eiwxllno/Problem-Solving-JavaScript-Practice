@@ -14,5 +14,5 @@ A collection of JavaScript coding challenges and solutions to sharpen problem-so
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/js-problem-solving.git
+git clone https://github.com/eiwxllno/js-problem-solving.git
 ```
